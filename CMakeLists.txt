@@ -24,7 +24,7 @@ option(FullFloatingPointRegisterPack "Save and pack all floating-point registers
 
 option(Plugin.SymbolResolver "Enable symbol resolver" ON)
 
-option(Plugin.ImportTableReplace "Enable import table replace " OFF)
+option(Plugin.ImportTableReplace "Enable import table replace " ON)
 
 option(Plugin.Android.BionicLinkerUtil "Enable android bionic linker util" OFF)
 
